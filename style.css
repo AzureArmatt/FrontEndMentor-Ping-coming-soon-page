@@ -74,7 +74,7 @@ html {
   margin-bottom: 3rem;
 }
 
-@media (max-width: 23.5em) {
+@media (max-width: 37.5em) {
   .page__form {
     display: -webkit-box;
     display: -ms-flexbox;
